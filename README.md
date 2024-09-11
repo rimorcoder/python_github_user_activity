@@ -2,7 +2,7 @@
  
 https://roadmap.sh/projects/github-user-activity
 
-This script queries GitHub's activity API to retrieve and display recent activity for a specified GitHub username.
+This script queries GitHub's event activity API to retrieve and display recent activity for a specified GitHub username.
 
 ## Requirements
 
